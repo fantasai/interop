@@ -99,7 +99,7 @@ Each Focus Area proposal now gets assigned points from each organization, accord
  
 Where `X` is the number of proposals, and `Y` is the ranking a particular proposal gets from a certain organization, then that proposal is awarded (`X+1)-Y` points from that organization. Once all 6 rankings are in for that proposal, the total points from all six organizations is known. If that proposal is not eliminated by an objection, then it has a certain number of points, and can be listed in order among the other proposals.
 
-For example, if there are 20 remaining proposals, each organization will rank each between 1 and 20, while leaving off any they don’t want to rank. Let’s say a proposal for flying cars gets the following ranks: 1, 5, 9, 14, 20, and no rank. That will give it the following points: 20, 16, 12, 7, 1, and zero = 56 points total.
+For example, if there are 20 remaining proposals, each organization will rank up to 20 proposals, while leaving off any they don’t want to rank. Let’s say a proposal for flying cars gets the following ranks: 1, 5, 9, 14, 20, and no rank. That will give it the following points: 20, 16, 12, 7, 1, and zero = 56 points total.
 
 If there appear to be quite a few proposals remaining in this round, the group can decide to only ask for each organization to submit their Top `X` number, while rating the rest zero. For example, if 65 proposals remain at this point, it might make sense to only submit a Top 35, and to not worry about ranking 35-65 in a specific order.
 
